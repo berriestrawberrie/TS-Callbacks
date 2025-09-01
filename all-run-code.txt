@@ -1,0 +1,19 @@
+/*ALL CODES.TS*/
+If you need to view all the codes in one file they are in all-codes.ts 
+in the assignment order. The output is not structured from this file 
+delay functions will overlap. To get the assignments printing in order
+and no delay overlap use the terminal list below. 
+
+/*COPY AND PASTE RUN CODES TO RUN THE ASSIGNMENTS IN CORRECT ORDER*/
+
+
+npx ts-node hello.ts
+npx ts-node delaygreet.ts
+npx ts-node math.ts	
+npx ts-node upper.ts
+npx ts-node pizzaOrder.ts
+npx ts-node multi-message.ts
+npx ts-node download.ts
+npx ts-node success-error.ts
+npx ts-node math-options.ts
+npx ts-node chained.ts
